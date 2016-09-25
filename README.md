@@ -12,6 +12,8 @@ C#とAltseedで作くられたゲーム.
 短い間隔で文字を消すほどスコアを稼げる.  
 全ての文字を消すをゲームクリア.  
 
+![SS](ss.png)
+
 # Copyright
 Copyright (C) 2016 akitsu sanae.  
 Distributed under the Boost Software License, Version 1.0. 
